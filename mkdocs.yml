@@ -11,7 +11,7 @@ theme:
 extra_javascript:
   - javascript/anchor.js
 nav:
-  - 'VideoOS open介绍': 'index.md'
+  - '视联网文档中心': 'index.md'
   - '流量主服务':
     - '注册与起步': 'get-started.md'
     - '视频广告变现': 'asmp.md'
